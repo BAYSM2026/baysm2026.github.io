@@ -68,8 +68,8 @@
 .hero-block {
 	position: relative;
 	@include background-size(cover);
-	height: 620px;
-	padding-top: 130px;
+	height: 300px;
+	padding-top: 100px;
 	
 }
 
@@ -99,8 +99,6 @@
 	}
 	.carousel-item-1 {
 		background: url('../images/hero-1.jpg') no-repeat center center;
-		width: 50%;
-		height: 50%;
 	}
 	.carousel-item-2 {
 		background: url('../images/hero-2.jpg') no-repeat center center;
